@@ -1,0 +1,16 @@
+{
+  "name": "earth-main",
+  "version": "1.0.0",
+  "description": "1. Clone this repository on your system",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "three": "^0.127.0"
+  }
+}
